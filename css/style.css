@@ -18,7 +18,7 @@
             line-height: 1.6;
             background-color: #f4f4f4;
             color: #333;
-            background-image:;
+            /* background-image: url('path/to/image.jpg'); */ /* Uncomment and provide a valid URL if needed */
         }
 
         header {
@@ -146,6 +146,8 @@
                 font-size: 0.9rem;
             }
         }
+
+        
 
 
  /* Define o vídeo como fundo */
